@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cookbook online</string>
+    <string name="title_home">Strona główna</string>
+    <string name="title_favourites">Ulubione</string>
+    <string name="title_notifications">Powiadomienia</string>
+    <string name="title_activity_login">logowanie</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">nazwa użytkownika</string>
+    <string name="prompt_password">hasło</string>
+    <string name="action_sign_in">Zaloguj się</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Nieprawidłowa nazwa użytkownika</string>
+    <string name="invalid_password">Hasło musi zawierać przynajmniej 5 znaków</string>
+    <string name="login_failed">"Nieprawidłowe dane"</string>
+    <string name="title_activity_register">rejestracja</string>
+    <string name="action_log_in">Zaloguj się</string>
+    <string name="action_register">zarejestruj się</string>
+    <string name="password">hasło</string>
+    <string name="username">nazwa użytkownika</string>
+    <string name="email">email</string>
+    <string name="lorem_ipsum">What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, </string>
+</resources>
